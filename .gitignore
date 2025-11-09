@@ -170,9 +170,8 @@ def logo():
                  \033[1;32mBODAREBALA_Qweyuii
  \x1b[1;37m•••••••••••••••••••••••••••••••••••••••••••••••
  [•] \033[1;37mOwner       : chrom
- [•] \033[1;37mGitHub      : Qweyuii
- [•] \033[1;37mStatus      : FREE
- [•] \033[1;37mBROTHER     : HAKIM
+ [•] \033[1;37mGitHub      : [•] \033[1;37mStatus      : FREE
+ [•] \033[1;37mBROTHER     : Farouk 
  [•] \033[1;37mVersion     : \033[1;32m0.8
  \x1b[1;37m••••••••••••••••••••••••••••••••••••••••••••••••''')
     p(logo)
